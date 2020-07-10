@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormValidationWithRxJava</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="submit">Submit</string>
+    <string name="please_add_your_details_below">Please add your details below.</string>
+</resources>
